@@ -1,4 +1,5 @@
 1st file in master
+v1 in master #cli
 
 v1 in master #cli
 
@@ -7,3 +8,6 @@ v2 in branch1  # cli
 
 3rd file in branch 1
 v3 in branch1 #gui
+2st file in branch1
+v2 in branch1 #cli
+
