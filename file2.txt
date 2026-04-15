@@ -1,9 +1,6 @@
 1st file in master
+v1 in master #cli
 
-v1 in master
+2st file in branch1
+v2 in branch1 #cli
 
-
-
-
-1st file in branch1
-v2 in branch1
